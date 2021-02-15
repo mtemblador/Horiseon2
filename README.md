@@ -14,4 +14,4 @@ THEN I find a concise, descriptive title
 
 https://mtemblador.github.io/Horiseon2/
 
-![image](assets/images/Screen Shot 2021-02-15 at 9.17.43 AM.png)
+![image](assets/images/Screen-shot.png)
